@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import './app.css'
+import './App.css'
 import Trivia from './components/Trivia';
 import Timer from './components/Timer';
 import Start from './components/Start';
