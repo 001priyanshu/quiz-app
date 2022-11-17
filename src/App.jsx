@@ -56,22 +56,22 @@ function App() {
     },
     {
       id: 3,
-      question: "When did the website `Facebook` launch?",
+      question: "Entomology is the science that studies?",
       answers: [
         {
-          text: "2004",
+          text: "Behavior of human beings",
+          correct: false,
+        },
+        {
+          text: "Insects",
           correct: true,
         },
         {
-          text: "2005",
+          text: "The origin and history of technical and scientific terms",
           correct: false,
         },
         {
-          text: "2006",
-          correct: false,
-        },
-        {
-          text: "2007",
+          text: "The formation of rocks",
           correct: false,
         },
       ],
@@ -100,242 +100,242 @@ function App() {
     },
     {
       id: 5,
-      question: "Who played the character of harry potter in movie?",
+      question: "Garampani sanctuary is located at?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "Junagarh, Gujarat",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
-          correct: false,
-        },
-        {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "Diphu, Assam",
           correct: true,
+        },
+        {
+          text: "Kohima, Nagaland",
+          correct: false,
+        },
+        {
+          text: "Gangtok, Sikkim",
+          correct: false,
         },
       ],
     },
     {
       id: 6,
-      question: "Who played the character of harry potter in movie?",
+      question: "Hitler party which came into power in 1933 is known as?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "Labour Party",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
-          correct: false,
-        },
-        {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "Nazi Party",
           correct: true,
+        },
+        {
+          text: "Ku-Klux-Klan",
+          correct: false,
+        },
+        {
+          text: "Democratic Party",
+          correct: false,
         },
       ],
     },
     {
       id: 7,
-      question: "Who played the character of harry potter in movie?",
+      question: "FFC stands for?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "Foreign Finance Corporation",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
-          correct: false,
-        },
-        {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "Film Finance Corporation",
           correct: true,
+        },
+        {
+          text: "Federation of Football Council",
+          correct: false,
+        },
+        {
+          text: "None of the above",
+          correct: false,
         },
       ],
     },
     {
       id: 8,
-      question: "Who played the character of harry potter in movie?",
+      question: "Epsom (England) is the place associated with?",
       answers: [
         {
-          text: "Johnny Deep",
-          correct: false,
-        },
-        {
-          text: "Leonardo Di Caprio",
-          correct: false,
-        },
-        {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "Horse racing",
           correct: true,
+        },
+        {
+          text: "Polo",
+          correct: false,
+        },
+        {
+          text: "Shooting",
+          correct: false,
+        },
+        {
+          text: "Snooker",
+          correct: false,
         },
       ],
     },
     {
       id: 9,
-      question: "Who played the character of harry potter in movie?",
+      question: "First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in?",
       answers: [
         {
-          text: "Johnny Deep",
-          correct: false,
-        },
-        {
-          text: "Leonardo Di Caprio",
-          correct: false,
-        },
-        {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "1967",
           correct: true,
+        },
+        {
+          text: "1968",
+          correct: false,
+        },
+        {
+          text: "1958",
+          correct: false,
+        },
+        {
+          text: "1933",
+          correct: false,
         },
       ],
     },
     {
       id: 10,
-      question: "Who played the character of harry potter in movie?",
+      question: "Galileo was an Italian astronomer who?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "developed the telescope",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
+          text: "discovered four satellites of Jupiter",
           correct: false,
         },
         {
-          text: "Denzel Washington",
+          text: "discovered that the movement of pendulum produces a regular time measurement",
           correct: false,
         },
         {
-          text: "Daniel Red Cliff",
+          text: "All of the above",
           correct: true,
         },
       ],
     },
     {
       id: 11,
-      question: "Who played the character of harry potter in movie?",
+      question: "Golf player Vijay Singh belongs to which country??",
       answers: [
         {
-          text: "Johnny Deep",
-          correct: false,
-        },
-        {
-          text: "Leonardo Di Caprio",
-          correct: false,
-        },
-        {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "Fiji",
           correct: true,
+        },
+        {
+          text: "India",
+          correct: false,
+        },
+        {
+          text: "USA",
+          correct: false,
+        },
+        {
+          text: "UK",
+          correct: false,
         },
       ],
     },
     {
       id: 12,
-      question: "Who played the character of harry potter in movie?",
+      question: "First Afghan War took place in?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "1840",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
+          text: "1858",
           correct: false,
         },
         {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "1839",
           correct: true,
+        },
+        {
+          text: "1848",
+          correct: false,
         },
       ],
     },
     {
       id: 13,
-      question: "Who played the character of harry potter in movie?",
+      question: "First China War was fought between?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "China and Britain",
+          correct: true,
+        },
+        {
+          text: "China and France",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
+          text: "China and Egypt",
           correct: false,
         },
         {
-          text: "Denzel Washington",
-          correct: false,
-        },
-        {
-          text: "Daniel Red Cliff",
+          text: "China and Greek",
           correct: true,
         },
       ],
     },
     {
       id: 14,
-      question: "Who played the character of harry potter in movie?",
+      question: "Famous sculptures depicting art of love built some time in 950 AD - 1050 AD are?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "Jama Masjid",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
+          text: "Sun temple",
           correct: false,
         },
         {
-          text: "Denzel Washington",
+          text: "Mahabalipuram temples",
           correct: false,
         },
         {
-          text: "Daniel Red Cliff",
+          text: "Khajuraho temples",
           correct: true,
         },
       ],
     },
     {
       id: 15,
-      question: "Who played the character of harry potter in movie?",
+      question: "Gravity setting chambers are used in industries to remove?",
       answers: [
         {
-          text: "Johnny Deep",
+          text: "	SOx",
           correct: false,
         },
         {
-          text: "Leonardo Di Caprio",
+          text: "	NOx",
           correct: false,
         },
         {
-          text: "Denzel Washington",
+          text: "CO",
           correct: false,
         },
         {
-          text: "Daniel Red Cliff",
+          text: "suspended particulate matter",
           correct: true,
         },
       ],
